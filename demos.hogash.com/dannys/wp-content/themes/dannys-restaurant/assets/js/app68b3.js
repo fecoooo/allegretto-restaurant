@@ -633,6 +633,8 @@
 				e.preventDefault();
 				args = fw.getWooCommerceQueryConfig( $linkedElementContainer.id );
 
+				
+
 				// Check if we have args
 				if( typeof args != 'undefined' ){
 					var $link = $(this),
@@ -668,7 +670,8 @@
 
 			// Add loading class
 			elementContainer.addClass( 'zn-wcArchive-ajax--loading' );
-			$.post( dnThemeAjax.ajaxurl, args ).success(function( data ){
+
+			$.post( "/Danny_gitlab/danny/demos.hogash.com/dannys/wp-admin/admin-ajax.php", args ).success(function( data ){
 
 				// Remove loading Class
 				elementContainer.removeClass( 'zn-wcArchive-ajax--loading' );
