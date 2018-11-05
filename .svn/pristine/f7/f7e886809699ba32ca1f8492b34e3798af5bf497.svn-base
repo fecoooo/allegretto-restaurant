@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	
-<!-- Mirrored from demos.hogash.com/dannys/home-oblique/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 Sep 2018 13:01:25 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 		<meta charset="UTF-8"/>
 		<meta name="twitter:widgets:csp" content="on">
@@ -79,7 +79,7 @@ var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","aj
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed41f3?url=https%3A%2F%2Fdemos.hogash.com%2Fdannys%2Fhome-oblique%2F&amp;format=xml" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 		
-	<!-- Fallback for animating in viewport -->
+	
 	<noscript>
 		<style type="text/css" media="screen">
 			.zn-animateInViewport {visibility: visible;}
@@ -88,7 +88,7 @@ var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","aj
 		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<meta name="generator" content="Powered by Slider Revolution 5.4.7.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<!-- Generated inline styles --><style type='text/css' id='zn-inline-styles'>.dn-siteHeader.dn-stickyHeader--off {background-color:rgba(255,255,255,0)}</style><link rel="icon" href="../wp-content/uploads/sites/4/2017/06/cropped-DannysFavicon-32x32.png" sizes="32x32" />
+<style type='text/css' id='zn-inline-styles'>.dn-siteHeader.dn-stickyHeader--off {background-color:rgba(255,255,255,0)}</style><link rel="icon" href="../wp-content/uploads/sites/4/2017/06/cropped-DannysFavicon-32x32.png" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/sites/4/2017/06/cropped-DannysFavicon-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="../wp-content/uploads/sites/4/2017/06/cropped-DannysFavicon-180x180.png" />
 <meta name="msapplication-TileImage" content="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/06/cropped-DannysFavicon-270x270.png" />
@@ -174,7 +174,7 @@ var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","aj
 				<span></span>
 				<span></span>
 			</a>
-		</div><!-- end responsive menu -->
+		</div>
 					<div class="sh-component dn-headerCart sh-dropDown woocommerce  dn-headerCart--dark ">
 					<a id="dn-cartbtn" class="dn-headerCartBtn sh-dropDown-head" href="_br/__b_Notice_/b__%20%20WC_Cart__get_cart_url%20is%20_strong_deprecate/strong_%20since%20version%202.5%21%20Use%20wc_get_cart_url/home/demoshogash/public_html/wp-includ/index.html" title="View your shopping cart">
 		<span class="dn-headerCartBtn-block dn-headerCartBtn-icon">
@@ -206,7 +206,7 @@ var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","aj
 </header>
 		<main id="content" class="dn-siteContent dn-isPage dn-isSingle dn-isPageBuilder">
 			<div class="dn-siteContainer "><div class="zn_pb_wrapper clearfix zn_sortable_content" data-droplevel="0"><div id="eluidee66eb99" class="eluidee66eb99  zn-css3PanelsEl"><div class="zn-css3Panels zn-css3Panels--resize zn-css3Panels--resize--speed-normal zn-css3Panels--resize--dist-normal zn-css3Panel-animatedCaption--default zn-css3Panel--hasSkew" data-panels="4"><div class="zn-css3Panel zn-css3Panel--0"><a href="../menu/index.html#eluid9c618902"  class=""  target="_self"  itemprop="url" ><div class="zn-css3Panel-inner"><div class="zn-css3Panel-mainImage-wrapper"><div class="zn-css3Panel-mainImage zn-css3Panel-mainImage--stretch"><img width="1200" height="1100" src="../wp-content/uploads/sites/4/2017/05/img_14.jpg" class="zn-css3Panel-mainImage-img object-fit__cover" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_14.jpg 1200w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_14-300x275.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_14-768x704.jpg 768w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_14-1024x939.jpg 1024w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_14-860x788.jpg 860w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="zn-css3Panel-overlay css3p--overlay-color" style="background: rgba(0,0,0,0.2)"></div></div></div></div><div class="zn-css3Panel-caption zn-css3Panel-caption--middle "><h3 class="zn-css3Panel-title" itemprop="headline" >Tasty</h3><div class="zn-css3Panel-text">Starters</div></div></a></div><div class="zn-css3Panel zn-css3Panel--1"><a href="../menu/index.html#eluidf2495275"  class=""  target="_self"  itemprop="url" ><div class="zn-css3Panel-inner"><div class="zn-css3Panel-mainImage-wrapper"><div class="zn-css3Panel-mainImage zn-css3Panel-mainImage--stretch"><img width="1200" height="1100" src="../wp-content/uploads/sites/4/2017/05/img_15.jpg" class="zn-css3Panel-mainImage-img object-fit__cover" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_15.jpg 1200w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_15-300x275.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_15-768x704.jpg 768w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_15-1024x939.jpg 1024w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_15-860x788.jpg 860w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="zn-css3Panel-overlay css3p--overlay-color" style="background: rgba(0,0,0,0.2)"></div></div></div></div><div class="zn-css3Panel-caption zn-css3Panel-caption--middle "><h3 class="zn-css3Panel-title" itemprop="headline" >Delicious</h3><div class="zn-css3Panel-text">Main</div></div></a></div><div class="zn-css3Panel zn-css3Panel--2"><a href="../menu/index.html#eluid822699b6"  class=""  target="_self"  itemprop="url" ><div class="zn-css3Panel-inner"><div class="zn-css3Panel-mainImage-wrapper"><div class="zn-css3Panel-mainImage zn-css3Panel-mainImage--stretch"><img width="1200" height="1100" src="../wp-content/uploads/sites/4/2017/05/img_16.jpg" class="zn-css3Panel-mainImage-img object-fit__cover" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_16.jpg 1200w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_16-300x275.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_16-768x704.jpg 768w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_16-1024x939.jpg 1024w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_16-860x788.jpg 860w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="zn-css3Panel-overlay css3p--overlay-color" style="background: rgba(0,0,0,0.2)"></div></div></div></div><div class="zn-css3Panel-caption zn-css3Panel-caption--middle "><h3 class="zn-css3Panel-title" itemprop="headline" >Sweet</h3><div class="zn-css3Panel-text">Deserts</div></div></a></div><div class="zn-css3Panel zn-css3Panel--3"><a href="../menu/index.html#eluid6367d432"  class=""  target="_self"  itemprop="url" ><div class="zn-css3Panel-inner"><div class="zn-css3Panel-mainImage-wrapper"><div class="zn-css3Panel-mainImage zn-css3Panel-mainImage--stretch"><img width="1200" height="1100" src="../wp-content/uploads/sites/4/2017/05/img_17.jpg" class="zn-css3Panel-mainImage-img object-fit__cover" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_17.jpg 1200w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_17-300x275.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_17-768x704.jpg 768w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_17-1024x939.jpg 1024w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/img_17-860x788.jpg 860w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="zn-css3Panel-overlay css3p--overlay-color" style="background: rgba(0,0,0,0.2)"></div></div></div></div><div class="zn-css3Panel-caption zn-css3Panel-caption--middle "><h3 class="zn-css3Panel-title" itemprop="headline" >Flavour</h3><div class="zn-css3Panel-text">Drinks</div></div></a></div>			</div>
-			<!-- end panels -->
+			
 			<div class="clearfix"></div>
 		</div>
 	<div id="eluid940d0d88" class="eluid940d0d88  zn-smartAreaEl"><section class="eluid44bbf01b  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid44bbf01b"><div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value"><div class="row zn-section-MainRow "><div class="eluid0484f783  znColumnElement col-md-4 zn_edit_mode" id="eluid0484f783" ><div class="znColumnElement-innerWrapper znColumnElement-iW-eluid0484f783 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
@@ -238,11 +238,11 @@ EC1Y 8SY<br>
 UNITED KINGDOM</p>				</div>
 			</div>
 		</div>
-	</div></div></section></div></div>	</div><!-- /.dn-siteContainer -->
-</main><!-- /.dn-siteContent -->
+	</div></div></section></div></div>	</div>
+</main>
 
 
-	</div><!-- end page_wrapper -->
+	</div>
 
 			<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
 		var c = document.body.className;
@@ -321,7 +321,7 @@ var ZnSmoothScroll = {"type":"0.75","touchpadSupport":"no"};
 <path d="M27.108508,25.07288 L22.060948,20.0242 C23.8,17.818108 24.73408,15.14492 24.73408,12.38776 C24.73408,5.55716 19.17664,0 12.34632,0 C5.51488,0 0,5.6 0,12.4306 C0,19.2612 5.55744,24.81836 12.38776,24.81836 C15.145116,24.81836 17.86092,23.8854 20.0242,22.145228 L25.07288,27.193908 C25.37038,27.491408 25.709432,27.618276 26.091156,27.618276 C26.47288,27.618276 26.811932,27.4913996 27.109432,27.193908 C27.702248,26.557356 27.702248,25.66704 27.1083383,25.073132 L27.108508,25.07288 Z M21.763308,12.47288 C21.763308,17.6484 17.563308,21.89124 12.387788,21.89124 C7.212268,21.89124 2.969428,17.64868 2.969428,12.47288 C2.969428,7.29708 7.169428,3.05452 12.387788,3.05452 C17.606148,3.05452 21.763308,7.25452 21.763308,12.47288 Z"></path>
 </symbol>
 
-<!-- SOCIAL ICONS -->
+
 
 <symbol id="icon-facebook" viewBox="0 0 19 32">
 <path class="path1" d="M17.125 0.214v4.714h-2.804q-1.536 0-2.071 0.643t-0.536 1.929v3.375h5.232l-0.696 5.286h-4.536v13.554h-5.464v-13.554h-4.554v-5.286h4.554v-3.893q0-3.321 1.857-5.152t4.946-1.83q2.625 0 4.071 0.214z"></path>
@@ -402,5 +402,5 @@ var ZnSmoothScroll = {"type":"0.75","touchpadSupport":"no"};
 </svg>
 	</body>
 
-<!-- Mirrored from demos.hogash.com/dannys/home-oblique/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 Sep 2018 13:01:32 GMT -->
+
 </html>
