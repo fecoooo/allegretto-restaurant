@@ -64,7 +64,7 @@
 						}
 					}).error(function() {
 						self.removeClass('is-submitting');
-						result_placeholder.html('ERROR.').css('color', 'red');
+						result_placeholder.html('HIBA.').css('color', 'red');
 					});
 
 				});
