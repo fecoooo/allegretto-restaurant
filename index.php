@@ -3,8 +3,8 @@
 $path = $_SERVER['REQUEST_URI'];
 
 $routes = [
-    '/danny/' => 'index.html',
-    '/danny/menu/' => 'menu/index.html'
+    '/' => 'index.html',
+    '/menu' => 'menu/index.html'
 ];
 
 if(!isset($routes[$path])) {

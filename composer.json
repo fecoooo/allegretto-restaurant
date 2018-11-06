@@ -1,0 +1,15 @@
+{
+    "name": "danny",
+    "description": "danny",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tamas 'ZerosuxX' Mohos",
+            "email": "tomi@mohos.name"
+        }
+    ],
+    "require": {
+        "php": ">= 7.1"
+    }
+}
