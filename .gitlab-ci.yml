@@ -1,0 +1,12 @@
+image: alpine/git:latest
+
+stages:
+- deploy
+
+deploy:
+  stage: deploy
+  before_script:
+  - echo "deploy to Heroku"
+  script:
+  - git remote add heroku https://heroku:$HEROKU_API_KEY@git.heroku.com/.git
+  - git push -f heroku master
