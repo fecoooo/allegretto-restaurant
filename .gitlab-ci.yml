@@ -1,4 +1,4 @@
-image: alpine/git:latest
+image: zerosuxx/php-dev:7.2.9-cli
 
 stages:
 - deploy
@@ -8,5 +8,5 @@ deploy:
   before_script:
   - echo "deploy to Heroku"
   script:
-  - git remote add heroku https://heroku:$HEROKU_API_KEY@git.heroku.com/.git
+  - git remote add heroku https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP.git
   - git push -f heroku master
