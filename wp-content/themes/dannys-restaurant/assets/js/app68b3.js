@@ -671,7 +671,7 @@
 			// Add loading class
 			elementContainer.addClass( 'zn-wcArchive-ajax--loading' );
 
-			$.post( "/Danny_gitlab/danny/demos.hogash.com/dannys/wp-admin/admin-ajax.php", args ).success(function( data ){
+			$.post( "wp-admin/admin-ajax.php", args ).success(function( data ){
 
 				// Remove loading Class
 				elementContainer.removeClass( 'zn-wcArchive-ajax--loading' );

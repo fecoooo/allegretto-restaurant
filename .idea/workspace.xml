@@ -2,7 +2,606 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aaf9ff7-ea5a-45d7-a23a-3373bf7cdf67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dannys/wp-admin/admin-ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/05/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/fu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/05/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/funct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.ph/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/functions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/stefan/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inclu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/stefan/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/fun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/stefan/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/stefan/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.php/b o/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/funct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.ph/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index01ad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index0598.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index1096.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index15b1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index1d10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index2184.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index3981.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index3b82.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index6da2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index7774.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index8067.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index826e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index912f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/index9c3c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexa4eb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexa714.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexb112.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexb2d4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexc18e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexcace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexd019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexd9e8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexdca4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexdd7f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexddf7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexe35c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexe7bd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexf340.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/indexfbac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/all/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/all/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/func/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/all/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/all/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/chefs-speciality/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_h/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/chefs-speciality/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/chefs-speciality/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/chefs-speciality/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/daily-menu/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/daily-menu/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/daily-menu/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/daily-menu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/desert/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/desert/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/f/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/desert/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/desert/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/drinks/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/drinks/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/f/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/drinks/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/drinks/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/main/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inclu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/main/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/fun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/main/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/offers/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/offers/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/f/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/offers/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/offers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/starters/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-i/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/starters/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/starters/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/starters/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/f/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/function/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chefs-starter/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inclu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chefs-starter/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/fun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chefs-starter/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chefs-starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us-with-google-map/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us-with-google-map/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us-with-google-map/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us-with-google-map/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-more-about-todays-main-speciality/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demosho/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-more-about-todays-main-speciality/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/pu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-more-about-todays-main-speciality/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-more-about-todays-main-speciality/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/fun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-inclu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/fun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-2/page/2/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-oblique/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-oblique/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/func/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-oblique/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i-dont-know-about-you-but-this-looks-delicious/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i-dont-know-about-you-but-this-looks-delicious/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demosh/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i-dont-know-about-you-but-this-looks-delicious/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i-dont-know-about-you-but-this-looks-delicious/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index03bd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index0776.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index0b1f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index0c93.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index1641.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index30e3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3786.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index44be.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index45c8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index486a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index5295.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index548d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index5c97.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index6233.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index6543.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index67bc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index7d69.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index7dad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index8e1b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index8fee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index9076.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index90dd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexb773.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexc524.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexc544.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexc61d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexc807.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexcde3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexd0b8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexd251.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexd6e1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexd728.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-boxed/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-boxed/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-boxed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.ph/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.ph/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_ht/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account/lost-password/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/funct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.ph/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/fun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/w/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-inclu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/page/2/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/page/2/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/w/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/page/2/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/page/2/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/all/page/2/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/chefs-speciality/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/w/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/daily-menu/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_htm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-in/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/desert/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-incl/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/main/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_htm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-in/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/offers/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_h/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-category/starters/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demosho/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/apple-cider-sauce-and-pork-loin-chops/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-incl/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/aubergine-dip/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/pub/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_htm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/baked-teriyaki-chicken/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/beef-barley-bun-with-horseradish/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/pub/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/chicken-wings-agrodolce-style/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/w/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/creamy-rice-pudding/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/halloumi-with-griddled-vegetables/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_ht/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-i/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/meatball-nirvana/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/peanut-butter-bars/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_htm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-in/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/stuffed-peppers/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/func/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/test/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshoga/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/publ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/turkey-cheeseburger-meatloaf/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/d/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/white-chocolate-raspberry-cheesecake/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/w/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/whitebait-dill-mayo/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation-and-content/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-in/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-and-content/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-in/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation-and-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-and-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-include/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/funct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salt-and-pepper-tofu/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/w/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salt-and-pepper-tofu/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-inclu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salt-and-pepper-tofu/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salt-and-pepper-tofu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-includes/funct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/functions.ph/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index058e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index09ca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index23de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index4b87.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index646c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index6b16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index7bc6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index8c9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/indexa528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/indexaafe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/indexba65.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/indexee06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/page/2/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-include/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/page/2/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/funct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/page/2/index1270.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/page/2/indexdb15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/page/2/indexf5df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-deal-if-you-order-3-or-more-pizzas/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/dem/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-deal-if-you-order-3-or-more-pizzas/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-deal-if-you-order-3-or-more-pizzas/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-deal-if-you-order-3-or-more-pizzas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuffed-eggplant/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demoshogash/public_html/wp-in/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuffed-eggplant/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_html/wp-includes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuffed-eggplant/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuffed-eggplant/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet-dannys-cherry-pie-desert-recipes/_br/__b_Notice_/b__  WC_Cart__get_cart_url is _strong_deprecate/strong_ since version 2.5! Use wc_get_cart_url/home/demosho/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet-dannys-cherry-pie-desert-recipes/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/pu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet-dannys-cherry-pie-desert-recipes/feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet-dannys-cherry-pie-desert-recipes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/&amp;reauth=1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/admin-ajax.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/admin-ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/content2.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/content2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mincd45.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mincd45.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/dannys-restaurant/assets/js/app68b3.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/dannys-restaurant/assets/js/app68b3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed0074.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed0074.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed15c6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed15c6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed19c0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed19c0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed1a05.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed1a05.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed2e1c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed2e1c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed2ea4.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed2ea4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed36e9.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed36e9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed468c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed468c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed49fc.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed49fc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed553c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed553c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed56d1.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed56d1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed6404.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed6404.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed68db.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed68db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed731b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed731b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed7bb6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed7bb6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed7f57.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed7f57.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed8389.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed8389.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed83e2.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed83e2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed84d7.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed84d7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed8d37.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed8d37.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed8d5b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed8d5b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed9386.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed9386.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed94f8.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embed94f8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embeda4cc.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embeda4cc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embedbd75.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embedbd75.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embedc24b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embedc24b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embedcefc.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embedcefc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embeddebd.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embeddebd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embeddfa2.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embeddfa2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embede026.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embede026.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embede96f.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embede96f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embedebc2.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embedebc2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embedf31e.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-json/oembed/1.0/embedf31e.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,50 +615,110 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
-          <entry key="php" value="2" />
+          <entry key="html" value="6" />
+          <entry key="js" value="2" />
+          <entry key="php" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PHP" value="2" />
+          <entry key="HTML" value="6" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="4" />
-          <entry key="php" value="19" />
+          <entry key="js" value="6" />
+          <entry key="php" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="4" />
-          <entry key="PHP" value="19" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PHP" value="56" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="2075" column="53" selection-start-line="2075" selection-start-column="53" selection-end-line="2075" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/dannys-restaurant/assets/js/app68b3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="673" column="21" selection-start-line="673" selection-start-column="21" selection-end-line="673" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/admin-ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/content2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xmlrpc0db0.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xmlrpc.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demos.hogash.com/dannys/wp-admin/admin-ajax.php">
+        <entry file="file://$PROJECT_DIR$/wp-admin/content17_23.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/content0.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mincd45.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="95">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -68,10 +727,22 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>Danny_gitlab</find>
+      <find>/dannys</find>
+      <find>get_ref</find>
+      <find>dannys/wp-admin/</find>
+      <find>hg_mailchimp_register</find>
       <find>admin-ajax.php</find>
+      <find>\/dannys\/</find>
+      <find>wp-admin</find>
+      <find>hogash.com</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/demos.hogash.com/dannys</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -80,8 +751,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-admin/admin-ajax.php" />
         <option value="$PROJECT_DIR$/demos.hogash.com/dannys/wp-content/themes/dannys-restaurant/assets/js/app68b3.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/dannys-restaurant/assets/js/app68b3.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mincd45.js" />
+        <option value="$PROJECT_DIR$/wp-admin/admin-ajax.php" />
+        <option value="$PROJECT_DIR$/wp-admin/content2.html" />
+        <option value="$PROJECT_DIR$/product-category/chefs-speciality/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_/index.html" />
       </list>
     </option>
   </component>
@@ -112,18 +787,28 @@
             <path>
               <item name="danny" type="b2602c69:ProjectViewProjectNode" />
               <item name="danny" type="462c0819:PsiDirectoryNode" />
-              <item name="dannys" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="danny" type="b2602c69:ProjectViewProjectNode" />
               <item name="danny" type="462c0819:PsiDirectoryNode" />
-              <item name="demos.hogash.com" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="danny" type="b2602c69:ProjectViewProjectNode" />
               <item name="danny" type="462c0819:PsiDirectoryNode" />
-              <item name="demos.hogash.com" type="462c0819:PsiDirectoryNode" />
-              <item name="dannys" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="danny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="danny" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="danny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="danny" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-json" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,6 +824,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-admin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demos.hogash.com/dannys" />
       <recent name="$PROJECT_DIR$/dannys" />
@@ -168,20 +856,21 @@
       <updated>1540396543098</updated>
       <workItem from="1540396544351" duration="323000" />
       <workItem from="1540396880628" duration="208000" />
+      <workItem from="1541523589829" duration="1904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="531000" />
+    <option name="totallyTimeSpent" value="2435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -209,16 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="442" column="47" selection-start-line="442" selection-start-column="47" selection-end-line="442" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demos.hogash.com/dannys/wp-admin/admin-ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -230,7 +909,81 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="2075" column="53" selection-start-line="2075" selection-start-column="53" selection-end-line="2075" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos.hogash.com/dannys/wp-admin/admin-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/dannys-restaurant/assets/js/app68b3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="673" column="21" selection-start-line="673" selection-start-column="21" selection-end-line="673" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/content0.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mincd45.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/content17_23.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/desert/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5970">
+          <caret line="398" column="62" selection-start-line="398" selection-start-column="62" selection-end-line="398" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-category/chefs-speciality/br/bNotice/b_  WC_Cart__get_cart_url is strongdeprecated/strong since version 2.5! Use wc_get_cart_url i/home/demoshogash/public_/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/content2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlrpc.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlrpc0db0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
