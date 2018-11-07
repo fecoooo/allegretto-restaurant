@@ -417,34 +417,7 @@
 					// openMenu();
 
 					// Open Levels
-					_clonedMenu.find('.menu-item-has-children > a').on('click',function(e){
-						e.preventDefault();
-
-						var $t = $(this),
-							$parent = $t.parent(),
-							$item_submenu = $t.siblings('ul.sub-menu, .zn_mega_container');
-							$parentSiblings = $t.parents('.menu-item-has-children').siblings('.menu-item-has-children').find('ul.sub-menu.is-visible, .zn_mega_container.is-visible');
-
-						// Close all other Submenus
-						parentSiblings_slideOptions = slidingOptions;
-						parentSiblings_slideOptions.complete = function(){
-							$(this).removeClass('is-visible');
-							$(this).closest('.dnNavOvr-menuItemActive').removeClass('dnNavOvr-menuItemActive');
-						};
-						$parentSiblings.slideUp(parentSiblings_slideOptions);
-
-						// Open Submenu
-						$parent.toggleClass('dnNavOvr-menuItemActive');
-
-						siblings_slideOptions = slidingOptions;
-						siblings_slideOptions.complete = function(){
-							$(this).toggleClass('is-visible');
-						};
-						$item_submenu.slideToggle(siblings_slideOptions);
-
-						// Add Depth Class
-						_clonedMenu.removeClass('is-depth-0 is-depth-1 is-depth-2 is-depth-3').addClass('is-depth-' + $t.parents('.dnNavOvr-menuItemActive').length );
-					});
+					
 
 					_clonedMenu.find(".main-menu-link[href*='#']:not([href='#']):only-child").on('click',function(e){
 						e.preventDefault();
