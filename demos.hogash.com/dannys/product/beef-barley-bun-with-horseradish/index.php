@@ -157,25 +157,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb">
-                        <ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList">
-                           <meta name="numberOfItems" content="3" />
-                           <meta name="itemListOrder" content="Ascending" />
-                           <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin">
-                              <a href="../../index.html" rel="home" itemprop="item"><span itemprop="name">Home</span></a>
-                              <meta itemprop="position" content="1" />
-                           </li>
-                           <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item">
-                              <a href="../../shop/index.html" itemprop="item"><span itemprop="name">Products</span></a>
-                              <meta itemprop="position" content="2" />
-                           </li>
-                           <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end">
-                              <span itemprop="item"><span itemprop="name">Beef &#038; Barley Bun with Horseradish</span></span>
-                              <meta itemprop="position" content="3" />
-                           </li>
-                        </ul>
-                     </nav>
-                     <hr class="dn-breadcrumbsSep">
+                     <?php include("../../includeables/breadcrumb.php"); ?>
                   </div>
                </div>
             </div>
@@ -195,7 +177,7 @@
                         </div>
                         <div class="summary entry-summary">
                            <h1 class="product_title entry-title">KEMENCÉS CIPÓBA TÖLTÖTT MARHAHÚS TORMÁVAL</h1>
-                           <p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>11.00</span></p>
+                           <p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol"></span>1100 Ft</span></p>
                            <div class="woocommerce-product-details__short-description">
                               <p>Marhahús / Torma / Spárga / Cukkini / Cherry paradicsom</p>
                            </div>
@@ -204,15 +186,15 @@
                         <div class="woocommerce-tabs wc-tabs-wrapper">
                            <ul class="tabs wc-tabs" role="tablist">
                               <li class="description_tab" id="tab-title-description" role="tab" aria-controls="tab-description">
-                                 <a href="#tab-description">Description</a>
+                                 <a href="#tab-description">LEÍRÁS</a>
                               </li>
                               <li class="reviews_tab" id="tab-title-reviews" role="tab" aria-controls="tab-reviews">
-                                 <a href="#tab-reviews">Reviews (0)</a>
+                                 <a href="#tab-reviews">VÉLEMÉNYEK (0)</a>
                               </li>
                            </ul>
                            <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-                              <h2>Description</h2>
-                              <p>Onions / Fresh flat-leaf parsley / Mashed potatoes / Pepper / Eggs / Tartare sauce</p>
+                              <h2>LEÍRÁS</h2>
+                              <p>Marhahús / Torma / Spárga / Cukkini / Cherry paradicsom</p>
                            </div>
                            <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
                               <div id="reviews" class="woocommerce-Reviews">
