@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en-US">
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
    <head>
@@ -125,7 +125,7 @@
                         </div>
                         <div class="dn-siteHeader-mainCenter fxb-col fxb fxb-center-x fxb-center-y fxb-basis-auto fxb-shrink-0">
                            <div class="sh-component dn-mainNav-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
-                               <div id="dn-main-menu" class="dn-mainNav-container  zn_mega_wrapper ">
+                              <div id="dn-main-menu" class="dn-mainNav-container  zn_mega_wrapper ">
                                  <ul id="menu-main-menu" class="dn-mainNav zn_mega_menu ">
                                     <li id="menu-item-288" class="main-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-288  main-menu-item-top  menu-item-even menu-item-depth-0">	<a href="../../index.html" class=" main-menu-link main-menu-link-top"><span>Rólunk</span></a></li>
                                     <li id="menu-item-292" class="main-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292  main-menu-item-top  menu-item-even menu-item-depth-0">											<a href="../../menu/index.html" class=" main-menu-link main-menu-link-top"><span>Étlap</span></a></li>
@@ -144,8 +144,6 @@
                               <span></span>
                               </a>
                            </div>
-                           
-                           
                         </div>
                      </div>
                   </div>
@@ -253,166 +251,9 @@
                   </div>
                </div>
             </div>
-            <div class="dn-wooRelatedProducts">
-               <div class="container">
-                  <div class="dn-productsWrapper dn-cols-4">
-                     <section class="related products">
-                        <h2>Related products</h2>
-                        <ul class="products columns-4">
-                           <li class="post-273 product type-product status-publish has-post-thumbnail product_cat-all product_cat-chefs-speciality product_cat-daily-menu product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../turkey-cheeseburger-meatloaf/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_03.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03.jpg 720w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Turkey cheeseburger meatloaf</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>19.00</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="indexdb15.html?add-to-cart=273" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="273" data-product_sku="" aria-label="Add &ldquo;Turkey cheeseburger meatloaf&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                           <li class="post-269 product type-product status-publish has-post-thumbnail product_cat-all product_cat-daily-menu product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../aubergine-dip/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_13.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_13.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_13-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_13-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_13-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_13-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_13-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Aubergine Dip</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>14.50</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="index7bc6.html?add-to-cart=269" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="269" data-product_sku="" aria-label="Add &ldquo;Aubergine Dip&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                           <li class="post-265 product type-product status-publish has-post-thumbnail product_cat-all product_cat-chefs-speciality product_cat-desert product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../beef-barley-bun-with-horseradish/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_09.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">KEMENCÉS CIPÓBA TÖLTÖTT MARHAHÚS TORMÁVAL</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>11.00</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="index058e.html?add-to-cart=265" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="265" data-product_sku="" aria-label="Add &ldquo;Beef &amp; Barley Bun with Horseradish&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                           <li class="post-251 product type-product status-publish has-post-thumbnail product_cat-all product_cat-desert product_cat-main instock shipping-taxable purchasable product-type-simple">
-                              <a href="../creamy-rice-pudding/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_05.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg 720w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Creamy rice pudding</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>9.90</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="indexa528.html?add-to-cart=251" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="251" data-product_sku="" aria-label="Add &ldquo;Creamy rice pudding&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                        </ul>
-                     </section>
-                  </div>
-               </div>
-            </div>
-      </div>
-      </div>
-      </div>
-      </div>
+       <?php include("../../includeables/related_products.php"); ?>
       </main>
-      <div class="znpb-footer-smart-area" >
-         <section class="eluid3f393bfe  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid3f393bfe">
-            <div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value">
-               <div class="row zn-section-MainRow ">
-                  <div class="eluid6debe2c4  znColumnElement col-md-12 zn_edit_mode" id="eluid6debe2c4" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid6debe2c4 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <h5 class="eluid9908e25a  dn-heading" id="eluid9908e25a" itemprop="headline" >Subscribe to our</h5>
-                           <h2 class="eluid54d3aea8  dn-heading" id="eluid54d3aea8" itemprop="headline" >Newsletter</h2>
-                           <div class="eluid3348bffc  zn-image text-center" id="eluid3348bffc"><img width="52" height="52" src="../../wp-content/uploads/sites/4/2017/05/offer_bubble.png" class="zn-imageImg u-img-inline-responsive " alt="" /></div>
-                           <p class="eluidb3384990  dn-heading" id="eluidb3384990" itemprop="headline" >Subscribe to our newsletter and receive 15% discount from your order.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="eluid35523455  znColumnElement col-md-12 col-sm-12" id="eluid35523455" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid35523455 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-center " >
-                        <div class="znColumnElement-innerContent">
-                           <div class="eluidcdecee72 nwsltr zn-mcNl zn-mcNl--style-normal zn-mcNl--layout-separate zn-mcNl--radius-square" id="eluidcdecee72">
-                              <div class="zn-mcNl-result js-mcForm-result"></div>
-                              <form method="post" class="js-mcForm zn-mcNl-form clearfix" data-url="https://demos.hogash.com/dannys/" name="newsletter_form">
-                                 <input type="email" name="mc_email" class="zn-mcNl-input js-mcForm-email form-control"
-                                    value="" placeholder="YOUR@MAIL.COM" required="required" />
-                                 <button type="submit" name="submit" class="zn-mcNl-submit zn-mcNl-submit--text">
-                                 SUBSCRIBE					</button>
-                                 <input type="hidden" name="mailchimp_list" class="nl-lid" value="ec23162409" />
-                                 <input type="hidden" name="action" value="hg_mailchimp_register" />
-                                 <input type="hidden" name="nonce" value="92eccb3653" class="zn_hg_mailchimp"/>				
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <section class="eluid46dec2ac  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid46dec2ac">
-            <div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value">
-               <div class="row zn-section-MainRow ">
-                  <div class="eluid2d7afe2c  znColumnElement col-md-4 zn_edit_mode" id="eluid2d7afe2c" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid2d7afe2c znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <div  class="eluidde944ac3  zn-smartCont clearfix  ">
-                              <div class="row ">
-                                 <div class="eluidd2748083  znColumnElement col-md-8 zn_edit_mode" id="eluidd2748083" >
-                                    <div class="znColumnElement-innerWrapper znColumnElement-iW-eluidd2748083 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                                       <div class="znColumnElement-innerContent">
-                                          <p class="eluid5077a28c  dn-heading" id="eluid5077a28c" itemprop="headline" >Chef Taylor Bonnyman, working in collaboration with Head Chef Marguerite Keogh, offer elegant & playful modern British cooking.</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="eluid5f960205  znColumnElement col-md-4 zn_edit_mode" id="eluid5f960205" >
-                                    <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid5f960205 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                                       <div class="znColumnElement-innerContent">
-                                          <div class="eluidee06842a  zn-menuEl" id="eluidee06842a">
-                                             <ul id="eluidee06842a_1" class="zn-menuList zn-menuList-alg-left zn-menuList--layout-vertical">
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288"><a href="#"><span>Home</span></a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="#"><span>Menu</span></a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="#"><span>Reservation</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-346"><a href="../../home-2/index.html"><span>Shop</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="../../news/index.html"><span>News</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-491"><a href="../../contact-us/index.html"><span>Contact</span></a></li>
-                                             </ul>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="eluid83325b06  znColumnElement col-md-4 zn_edit_mode" id="eluid83325b06" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid83325b06 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <div class="zn-buttonWrapper zn-buttonWrapper-eluid0e144a29 text-center"><a href="../../reservation-and-content/index.html" id="eluid0e144a29" class="eluid0e144a29  zn-button btn btn-default btn--square btn-icon--before" title="Click me" target="_self"  itemprop="url" ><span class="zn-buttonText">ONLINE RESERVATION</span></a></div>
-                           <h4 class="eluida6994bdf  dn-heading" id="eluida6994bdf" itemprop="headline" >Follow</h4>
-                           <div class="eluid387a5df7  zn-iconList-el" id="eluid387a5df7">
-                              <ul class="zn-iconList zn-iconList-alg-center zn-iconList--layout-horizontal zn_dummy_value">
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-0 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-1 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-2 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-3 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="eluid4b49d900  znColumnElement col-md-4 zn_edit_mode" id="eluid4b49d900" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid4b49d900 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <p class="eluid56f25e4d  dn-heading" id="eluid56f25e4d" itemprop="headline" >+4 1800 555 1234</p>
-                           <p class="eluid91f0b4e6  dn-heading" id="eluid91f0b4e6" itemprop="headline" ><a href="https://demos.hogash.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b7f5f8f8fcf6e3f6f5fbf2f7e5f2e4e3f6e2e5f6f9e399f4f8fa">[email&#160;protected]</a></p>
-                           <p class="eluid2b35bc7c  dn-heading" id="eluid2b35bc7c" itemprop="headline" >49 Featherstone Street<br>
-                              LONDON<br>
-                              EC1Y 8SY<br>
-                              UNITED KINGDOM
-                           </p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-      </div>
+       <?php include("../../includeables/footer.php"); ?>
       </div>
       <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/demos.hogash.com\/dannys\/product\/apple-cider-sauce-and-pork-loin-chops\/","name":"Apple cider sauce and pork","image":"https:\/\/demos.hogash.com\/dannys\/wp-content\/uploads\/sites\/4\/2017\/05\/prod_06.jpg","description":"Onions \/ Fresh flat-leaf parsley \/ Mashed potatoes \/ Pepper \/ Eggs \/ Tartare sauce","sku":"","offers":[{"@type":"Offer","price":"15.90","priceSpecification":{"price":"1590 Ft","priceCurrency":"USD","valueAddedTaxIncluded":"false"},"priceCurrency":"USD","availability":"https:\/\/schema.org\/InStock","url":"https:\/\/demos.hogash.com\/dannys\/product\/apple-cider-sauce-and-pork-loin-chops\/","seller":{"@type":"Organization","name":"Dannys Restaurant","url":"https:\/\/demos.hogash.com\/dannys"}}]}</script>
       <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
