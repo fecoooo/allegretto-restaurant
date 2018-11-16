@@ -5,12 +5,12 @@
       <meta charset="UTF-8"/>
       <meta name="twitter:widgets:csp" content="on">
       <link rel="profile" href="http://gmpg.org/xfn/11"/>
-      <title>Turkey cheeseburger meatloaf &#8211; Dannys Restaurant</title>
+      <title>Creamy rice pudding &#8211; Dannys Restaurant</title>
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='dns-prefetch' href='http://s.w.org/' />
       <link rel="alternate" type="application/rss+xml" title="Dannys Restaurant &raquo; Feed" href="../../feed/index.html" />
       <link rel="alternate" type="application/rss+xml" title="Dannys Restaurant &raquo; Comments Feed" href="../../comments/feed/index.html" />
-      <link rel="alternate" type="application/rss+xml" title="Dannys Restaurant &raquo; Turkey cheeseburger meatloaf Comments Feed" href="feed/index.html" />
+      <link rel="alternate" type="application/rss+xml" title="Dannys Restaurant &raquo; Creamy rice pudding Comments Feed" href="feed/index.html" />
       <script type="text/javascript">
          window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demos.hogash.com\/dannys\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
          !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -50,7 +50,7 @@
       <link rel='stylesheet' id='dannys_woocommerce_css-css'  href='../../wp-content/themes/dannys-restaurant/woocommerce.min5010.css?ver=4.9.8' type='text/css' media='all' />
       <link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='../../wp-content/plugins/recent-posts-widget-with-thumbnails/publicae48.css?ver=6.2' type='text/css' media='all' />
       <link rel='stylesheet' id='zion-frontend-css'  href='../../wp-content/plugins/zion-builder/assets/css/znb_frontend9f34.css?ver=1.0.20' type='text/css' media='all' />
-      <link rel='stylesheet' id='273-layout.css-css'  href='../../wp-content/uploads/sites/4/zion-builder/cache/273-layouta77a.css?ver=4d6ea78ed4a237ddcd791d421e59e573' type='text/css' media='all' />
+      <link rel='stylesheet' id='251-layout.css-css'  href='../../wp-content/uploads/sites/4/zion-builder/cache/251-layout7ae2.css?ver=32ca870b32a498510d439a9cadec3b1c' type='text/css' media='all' />
       <link rel='stylesheet' id='th-theme-options-styles-css'  href='../../wp-content/uploads/sites/4/zn_dynamic72da.css?ver=1504169779' type='text/css' media='all' />
       <script type='text/javascript' src='../../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
       <script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
@@ -64,7 +64,7 @@
       <script type='text/javascript' src='../../wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min8c43.js?ver=5.4.7.1'></script>
       <script type='text/javascript'>
          /* <![CDATA[ */
-         var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/demos.hogash.com\/dannys\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","action":"update_views_ajax","ID":"273","token":"39ebea16b0","debug":"1"};
+         var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/demos.hogash.com\/dannys\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","action":"update_views_ajax","ID":"251","token":"39ebea16b0","debug":"1"};
          /* ]]> */
       </script>
       <script type='text/javascript' src='../../wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.1.0.minbfce.js?ver=4.1.0'></script>
@@ -74,9 +74,9 @@
       <meta name="generator" content="WordPress 4.9.8" />
       <meta name="generator" content="WooCommerce 3.4.3" />
       <link rel="canonical" href="index.html" />
-      <link rel='shortlink' href='../../index7dad.html?p=273' />
-      <link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed8d37.json?url=https%3A%2F%2Fdemos.hogash.com%2Fdannys%2Fproduct%2Fturkey-cheeseburger-meatloaf%2F" />
-      <link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed5dca?url=https%3A%2F%2Fdemos.hogash.com%2Fdannys%2Fproduct%2Fturkey-cheeseburger-meatloaf%2F&amp;format=xml" />
+      <link rel='shortlink' href='../../indexd6e1.html?p=251' />
+      <link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed9386.json?url=https%3A%2F%2Fdemos.hogash.com%2Fdannys%2Fproduct%2Fcreamy-rice-pudding%2F" />
+      <link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed2dad?url=https%3A%2F%2Fdemos.hogash.com%2Fdannys%2Fproduct%2Fcreamy-rice-pudding%2F&amp;format=xml" />
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
       <noscript>
          <style type="text/css" media="screen">
@@ -100,7 +100,7 @@
          };
       </script>
    </head>
-   <body class="product-template-default single single-product postid-273 woocommerce woocommerce-page woocommerce-no-js" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+   <body class="product-template-default single single-product postid-251 woocommerce woocommerce-page woocommerce-no-js" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
       <div id="page-loading" class="dn-pageLoading dn-pageLoading--img-breath" style="color:#16191e">
          <div class="dn-pageLoading-inner"><img src="../../wp-content/uploads/sites/4/2017/05/preloader_logo.png" alt="image-preloader"></div>
       </div>
@@ -170,7 +170,7 @@
                               <meta itemprop="position" content="2" />
                            </li>
                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end">
-                              <span itemprop="item"><span itemprop="name">Turkey cheeseburger meatloaf</span></span>
+                              <span itemprop="item"><span itemprop="name">Creamy rice pudding</span></span>
                               <meta itemprop="position" content="3" />
                            </li>
                         </ul>
@@ -184,22 +184,21 @@
             <div class="dn-siteContainer container">
                <div class="dn-contentRow dn-contentRow--sidebar-no">
                   <div id="mainbody" class="dn-mainBody" role="main" itemprop="mainContentOfPage" >
-                     <div id="product-273" class="post-273 product type-product status-publish has-post-thumbnail product_cat-all product_cat-chefs-speciality product_cat-daily-menu product_cat-starters instock shipping-taxable purchasable product-type-simple">
+                     <div id="product-251" class="post-251 product type-product status-publish has-post-thumbnail product_cat-all product_cat-desert product_cat-main instock shipping-taxable purchasable product-type-simple">
                         <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
                            <figure class="woocommerce-product-gallery__wrapper">
-                              <div data-thumb="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-150x150.jpg" class="woocommerce-product-gallery__image"><a href="../../wp-content/uploads/sites/4/2017/05/prod_03.jpg"><img width="600" height="600" src="../../wp-content/uploads/sites/4/2017/05/prod_03.jpg" class="wp-post-image" alt="" title="" data-caption="" data-src="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03.jpg" data-large_image="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03.jpg" data-large_image_width="720" data-large_image_height="720" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03.jpg 720w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_03-600x600.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
-                              <div data-thumb="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01-150x150.jpg" class="woocommerce-product-gallery__image"><a href="../../wp-content/uploads/sites/4/2017/05/prod_01.jpg"><img width="600" height="600" src="../../wp-content/uploads/sites/4/2017/05/prod_01.jpg" class="" alt="" title="" data-caption="" data-src="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01.jpg" data-large_image="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01.jpg" data-large_image_width="750" data-large_image_height="750" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01.jpg 750w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_01-600x600.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
-                              <div data-thumb="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-150x150.jpg" class="woocommerce-product-gallery__image"><a href="../../wp-content/uploads/sites/4/2017/05/prod_05.jpg"><img width="600" height="600" src="../../wp-content/uploads/sites/4/2017/05/prod_05.jpg" class="" alt="" title="" data-caption="" data-src="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg" data-large_image="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg" data-large_image_width="720" data-large_image_height="720" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg 720w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-600x600.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
+                              <div data-thumb="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-150x150.jpg" class="woocommerce-product-gallery__image"><a href="../../wp-content/uploads/sites/4/2017/05/prod_05.jpg"><img width="600" height="600" src="../../wp-content/uploads/sites/4/2017/05/prod_05.jpg" class="wp-post-image" alt="" title="" data-caption="" data-src="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg" data-large_image="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg" data-large_image_width="720" data-large_image_height="720" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05.jpg 720w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_05-600x600.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
                               <div data-thumb="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11-150x150.jpg" class="woocommerce-product-gallery__image"><a href="../../wp-content/uploads/sites/4/2017/05/prod_11.jpg"><img width="600" height="600" src="../../wp-content/uploads/sites/4/2017/05/prod_11.jpg" class="" alt="" title="" data-caption="" data-src="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11.jpg" data-large_image="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11.jpg" data-large_image_width="660" data-large_image_height="660" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_11-600x600.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
+                              <div data-thumb="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-150x150.jpg" class="woocommerce-product-gallery__image"><a href="../../wp-content/uploads/sites/4/2017/05/prod_12.jpg"><img width="600" height="600" src="../../wp-content/uploads/sites/4/2017/05/prod_12.jpg" class="" alt="" title="" data-caption="" data-src="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12.jpg" data-large_image="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12.jpg" data-large_image_width="660" data-large_image_height="660" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-600x600.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
                            </figure>
                         </div>
                         <div class="summary entry-summary">
-                           <h1 class="product_title entry-title">SAJTBURGER PULYKAFASÍRTTAL</h1>
-                           <p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>19.00</span></p>
+                           <h1 class="product_title entry-title">TEJSZÍNES RIZSPUDING</h1>
+                           <p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>9.90</span></p>
                            <div class="woocommerce-product-details__short-description">
-                              <p>Sajt / Mustár / Majonéz / Pulykahús</p>
+                              <p>Tejszín / Rizs / Tej / Tojás</p>
                            </div>
-                          
+
                         </div>
                         <div class="woocommerce-tabs wc-tabs-wrapper">
                            <ul class="tabs wc-tabs" role="tablist">
@@ -223,7 +222,7 @@
                                  <div id="review_form_wrapper">
                                     <div id="review_form">
                                        <div id="respond" class="comment-respond">
-                                          <span id="reply-title" class="comment-reply-title">Be the first to review &ldquo;Turkey cheeseburger meatloaf&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small></span>			
+                                          <span id="reply-title" class="comment-reply-title">Be the first to review &ldquo;Creamy rice pudding&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small></span>			
                                           <form action="https://demos.hogash.com/dannys/wp-comments-post.php" method="post" id="commentform" class="comment-form">
                                              <p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
                                              <div class="comment-form-rating">
@@ -240,7 +239,7 @@
                                              <p class="comment-form-comment"><label for="comment">Your review&nbsp;<span class="required">*</span></label><textarea id="comment" class="form-control" name="comment" cols="45" rows="8" aria-required="true" required></textarea></p>
                                              <p class="comment-form-author"><label for="author">Name&nbsp;<span class="required">*</span></label> <input id="author" name="author" type="text" class="form-control" value="" size="30" aria-required="true" required /></p>
                                              <p class="comment-form-email"><label for="email">Email&nbsp;<span class="required">*</span></label> <input id="email" class="form-control" name="email" type="email" value="" size="30" aria-required="true" required /></p>
-                                             <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='273' id='comment_post_ID' />
+                                             <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='251' id='comment_post_ID' />
                                                 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
                                              </p>
                                           </form>
@@ -255,168 +254,11 @@
                   </div>
                </div>
             </div>
-            <div class="dn-wooRelatedProducts">
-               <div class="container">
-                  <div class="dn-productsWrapper dn-cols-4">
-                     <section class="related products">
-                        <h2>Related products</h2>
-                        <ul class="products columns-4">
-                           <li class="post-268 product type-product status-publish has-post-thumbnail product_cat-all product_cat-main product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../chicken-wings-agrodolce-style/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_12.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_12-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Chicken wings, agrodolce style</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>12.00</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="indexee06.html?add-to-cart=268" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="268" data-product_sku="" aria-label="Add &ldquo;Chicken wings, agrodolce style&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                           <li class="post-266 product type-product status-publish has-post-thumbnail product_cat-all product_cat-daily-menu product_cat-main product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../halloumi-with-griddled-vegetables/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_10.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_10.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_10-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_10-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_10-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_10-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_10-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Halloumi with griddled vegetables</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>9.00</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="index23de.html?add-to-cart=266" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="266" data-product_sku="" aria-label="Add &ldquo;Halloumi with griddled vegetables&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                           <li class="post-265 product type-product status-publish has-post-thumbnail product_cat-all product_cat-chefs-speciality product_cat-desert product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../beef-barley-bun-with-horseradish/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_09.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09.jpg 660w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_09-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Beef &#038; Barley Bun with Horseradish</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>11.00</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="index058e.html?add-to-cart=265" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="265" data-product_sku="" aria-label="Add &ldquo;Beef &amp; Barley Bun with Horseradish&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                           <li class="post-270 product type-product status-publish has-post-thumbnail product_cat-all product_cat-chefs-speciality product_cat-desert product_cat-offers product_cat-starters instock shipping-taxable purchasable product-type-simple">
-                              <a href="../apple-cider-sauce-and-pork-loin-chops/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-                                 <img width="300" height="300" src="../../wp-content/uploads/sites/4/2017/05/prod_06.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_06.jpg 720w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_06-150x150.jpg 150w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_06-300x300.jpg 300w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_06-180x180.jpg 180w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_06-360x360.jpg 360w, https://demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/prod_06-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
-                                 <div class="dn-prodInfo-wrapper">
-                                    <h2 class="woocommerce-loop-product__title">Apple cider sauce and pork</h2>
-                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>15.90</span></span>
-                                 </div>
-                              </a>
-                              <div class="dn-btnAddToCart"><a href="index09ca.html?add-to-cart=270" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="270" data-product_sku="" aria-label="Add &ldquo;Apple cider sauce and pork&rdquo; to your cart" rel="nofollow">Add to cart</a></div>
-                           </li>
-                        </ul>
-                     </section>
-                  </div>
-               </div>
-            </div>
-      </div>
-      </div>
-      </div>
-      </div>
+       <?php include("../../includeables/related_products.php"); ?>
       </main>
-      <div class="znpb-footer-smart-area" >
-         <section class="eluid3f393bfe  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid3f393bfe">
-            <div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value">
-               <div class="row zn-section-MainRow ">
-                  <div class="eluid6debe2c4  znColumnElement col-md-12 zn_edit_mode" id="eluid6debe2c4" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid6debe2c4 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <h5 class="eluid9908e25a  dn-heading" id="eluid9908e25a" itemprop="headline" >Subscribe to our</h5>
-                           <h2 class="eluid54d3aea8  dn-heading" id="eluid54d3aea8" itemprop="headline" >Newsletter</h2>
-                           <div class="eluid3348bffc  zn-image text-center" id="eluid3348bffc"><img width="52" height="52" src="../../wp-content/uploads/sites/4/2017/05/offer_bubble.png" class="zn-imageImg u-img-inline-responsive " alt="" /></div>
-                           <p class="eluidb3384990  dn-heading" id="eluidb3384990" itemprop="headline" >Subscribe to our newsletter and receive 15% discount from your order.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="eluid35523455  znColumnElement col-md-12 col-sm-12" id="eluid35523455" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid35523455 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-center " >
-                        <div class="znColumnElement-innerContent">
-                           <div class="eluidcdecee72 nwsltr zn-mcNl zn-mcNl--style-normal zn-mcNl--layout-separate zn-mcNl--radius-square" id="eluidcdecee72">
-                              <div class="zn-mcNl-result js-mcForm-result"></div>
-                              <form method="post" class="js-mcForm zn-mcNl-form clearfix" data-url="https://demos.hogash.com/dannys/" name="newsletter_form">
-                                 <input type="email" name="mc_email" class="zn-mcNl-input js-mcForm-email form-control"
-                                    value="" placeholder="YOUR@MAIL.COM" required="required" />
-                                 <button type="submit" name="submit" class="zn-mcNl-submit zn-mcNl-submit--text">
-                                 SUBSCRIBE					</button>
-                                 <input type="hidden" name="mailchimp_list" class="nl-lid" value="ec23162409" />
-                                 <input type="hidden" name="action" value="hg_mailchimp_register" />
-                                 <input type="hidden" name="nonce" value="1d661f29ef" class="zn_hg_mailchimp"/>				
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <section class="eluid46dec2ac  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid46dec2ac">
-            <div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value">
-               <div class="row zn-section-MainRow ">
-                  <div class="eluid2d7afe2c  znColumnElement col-md-4 zn_edit_mode" id="eluid2d7afe2c" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid2d7afe2c znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <div  class="eluidde944ac3  zn-smartCont clearfix  ">
-                              <div class="row ">
-                                 <div class="eluidd2748083  znColumnElement col-md-8 zn_edit_mode" id="eluidd2748083" >
-                                    <div class="znColumnElement-innerWrapper znColumnElement-iW-eluidd2748083 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                                       <div class="znColumnElement-innerContent">
-                                          <p class="eluid5077a28c  dn-heading" id="eluid5077a28c" itemprop="headline" >Chef Taylor Bonnyman, working in collaboration with Head Chef Marguerite Keogh, offer elegant & playful modern British cooking.</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="eluid5f960205  znColumnElement col-md-4 zn_edit_mode" id="eluid5f960205" >
-                                    <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid5f960205 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                                       <div class="znColumnElement-innerContent">
-                                          <div class="eluidee06842a  zn-menuEl" id="eluidee06842a">
-                                             <ul id="eluidee06842a_1" class="zn-menuList zn-menuList-alg-left zn-menuList--layout-vertical">
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288"><a href="#"><span>Home</span></a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="#"><span>Menu</span></a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="#"><span>Reservation</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-346"><a href="../../home-2/index.html"><span>Shop</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="../../news/index.html"><span>News</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-491"><a href="../../contact-us/index.html"><span>Contact</span></a></li>
-                                             </ul>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="eluid83325b06  znColumnElement col-md-4 zn_edit_mode" id="eluid83325b06" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid83325b06 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <div class="zn-buttonWrapper zn-buttonWrapper-eluid0e144a29 text-center"><a href="../../reservation-and-content/index.html" id="eluid0e144a29" class="eluid0e144a29  zn-button btn btn-default btn--square btn-icon--before" title="Click me" target="_self"  itemprop="url" ><span class="zn-buttonText">ONLINE RESERVATION</span></a></div>
-                           <h4 class="eluida6994bdf  dn-heading" id="eluida6994bdf" itemprop="headline" >Follow</h4>
-                           <div class="eluid387a5df7  zn-iconList-el" id="eluid387a5df7">
-                              <ul class="zn-iconList zn-iconList-alg-center zn-iconList--layout-horizontal zn_dummy_value">
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-0 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-1 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-2 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                                 <li class="zn-iconList-item"><a href="#"  class="zn-iconList-itemLink"  target="_self"  itemprop="url" ><span class="zn-iconList-itemIcon zn-iconList-itemIcon-3 is-single" data-zniconfam="icomoon" data-zn_icon=""></span></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="eluid4b49d900  znColumnElement col-md-4 zn_edit_mode" id="eluid4b49d900" >
-                     <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid4b49d900 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
-                        <div class="znColumnElement-innerContent">
-                           <p class="eluid56f25e4d  dn-heading" id="eluid56f25e4d" itemprop="headline" >+4 1800 555 1234</p>
-                           <p class="eluid91f0b4e6  dn-heading" id="eluid91f0b4e6" itemprop="headline" ><a href="https://demos.hogash.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="377578787c766376757b7277657264637662657679631974787a">[email&#160;protected]</a></p>
-                           <p class="eluid2b35bc7c  dn-heading" id="eluid2b35bc7c" itemprop="headline" >49 Featherstone Street<br>
-                              LONDON<br>
-                              EC1Y 8SY<br>
-                              UNITED KINGDOM
-                           </p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
+       <?php include("../../includeables/footer.php"); ?>
       </div>
-      </div>
-      <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/demos.hogash.com\/dannys\/product\/turkey-cheeseburger-meatloaf\/","name":"Turkey cheeseburger meatloaf","image":"https:\/\/demos.hogash.com\/dannys\/wp-content\/uploads\/sites\/4\/2017\/05\/prod_03.jpg","description":"Onions \/ Fresh flat-leaf parsley \/ Mashed potatoes \/ Pepper \/ Eggs \/ Tartare sauce","sku":"","offers":[{"@type":"Offer","price":"19.00","priceSpecification":{"price":"19.00","priceCurrency":"USD","valueAddedTaxIncluded":"false"},"priceCurrency":"USD","availability":"https:\/\/schema.org\/InStock","url":"https:\/\/demos.hogash.com\/dannys\/product\/turkey-cheeseburger-meatloaf\/","seller":{"@type":"Organization","name":"Dannys Restaurant","url":"https:\/\/demos.hogash.com\/dannys"}}]}</script>
+      <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/demos.hogash.com\/dannys\/product\/creamy-rice-pudding\/","name":"Creamy rice pudding","image":"https:\/\/demos.hogash.com\/dannys\/wp-content\/uploads\/sites\/4\/2017\/05\/prod_05.jpg","description":"Onions \/ Fresh flat-leaf parsley \/ Mashed potatoes \/ Pepper \/ Eggs \/ Tartare sauce","sku":"","offers":[{"@type":"Offer","price":"9.90","priceSpecification":{"price":"9.90","priceCurrency":"USD","valueAddedTaxIncluded":"false"},"priceCurrency":"USD","availability":"https:\/\/schema.org\/InStock","url":"https:\/\/demos.hogash.com\/dannys\/product\/creamy-rice-pudding\/","seller":{"@type":"Organization","name":"Dannys Restaurant","url":"https:\/\/demos.hogash.com\/dannys"}}]}</script>
       <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
          <div class="pswp__bg"></div>
          <div class="pswp__scroll-wrap">
