@@ -1,0 +1,15 @@
+{
+    "name": "danny",
+    "description": "danny",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dajka Ferenc",
+            "email": "dajka1989@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.1"
+    }
+}
