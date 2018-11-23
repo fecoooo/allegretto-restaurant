@@ -1,8 +1,1 @@
-$path = $_SERVER['REQUEST_URI'];
-
-$routes = [
-    '/' => 'index.html',
-    '/menu' => 'menu/index.html'
-];
-
-if(!isset($routes[$path])) {
+<?php header("Location: demos.hogash.com/dannys/index.php");
