@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en-US">
    
    
@@ -1146,9 +1146,9 @@
 			setTimeout(function(){ 
 				var imgs = document.getElementsByTagName("img");
 				for(var i = 0; i < imgs.length; ++i)
-				{
-					if(imgs[i].src === "http://localhost/danny_gitlab/danny/demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/map_marker.png")
-						imgs[i].click();
+                {
+                    if (imgs[i].src.includes("wp-content/uploads/sites/4/2017/05/map_marker.png"))
+                        imgs[i].click();
 				}
 			}, 1000);
 		</script>
