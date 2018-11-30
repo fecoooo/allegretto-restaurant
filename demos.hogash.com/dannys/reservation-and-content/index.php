@@ -104,7 +104,7 @@
    </head>
    <body class="page-template-default page page-id-275 woocommerce-no-js" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
       <div id="page-loading" class="dn-pageLoading dn-pageLoading--img-breath" style="color:#16191e">
-         <div class="dn-pageLoading-inner"><img src="../wp-content/uploads/sites/4/2017/05/preloader_logo.png" alt="image-preloader"></div>
+         <div class="dn-pageLoading-inner"><img src="http://localhost/allegretto-restaurant/demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/preloader_logo.png" alt="image-preloader"></div>
       </div>
       <div id="page_wrapper">
          <div id="dn-nav-overlay" class="dnNavOvr dnNavOvr--theme-light">
