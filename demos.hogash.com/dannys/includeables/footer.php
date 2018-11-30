@@ -89,14 +89,14 @@
             <div class="eluid4b49d900  znColumnElement col-md-4 zn_edit_mode" id="eluid4b49d900" >
                <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid4b49d900 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
                   <div class="znColumnElement-innerContent">
-                     <p class="eluid56f25e4d  dn-heading" id="eluid56f25e4d" itemprop="headline" >+36 1 388 6902</p>
+                     <p class="eluid56f25e4d  dn-heading" id="eluid56f25e4d" itemprop="headline" >+36 1 234 4567</p>
                      <p class="eluid91f0b4e6  dn-heading" id="eluid91f0b4e6" itemprop="headline" style="margin-bottom:5px"><a href="mailto:ASZTALFOGLALAS@ETTEREM.HU"
                         style="color:white;font-family: "Poppins", Helvetica, Arial, sans-serif;font-size: 11px;line-height: 28px;font-weight: 600;letter-spacing: 4px;text-align: left;"
                         data-cfemail="6b292424202a3f2a29272e2b392e383f2a3e392a253f45282426">ASZTALFOGLALAS@ETTEREM.HU</a>
                      </p>
-                     <p class="eluid2b35bc7c  dn-heading" id="eluid2b35bc7c" itemprop="headline" >III. kerület, Monostori út 31.<br>
+                     <p class="eluid2b35bc7c  dn-heading" id="eluid2b35bc7c" itemprop="headline" >V. kerület, Múzeum krt. 1.<br>
                         BUDAPEST<br>
-                        1031<br>
+                        1053<br>
                         MAGYARORSZÁG
                      </p>
                   </div>
