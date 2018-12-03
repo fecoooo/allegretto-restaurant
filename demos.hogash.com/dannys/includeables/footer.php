@@ -1,3 +1,5 @@
+<?php define("SITE_PATH", "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/"); ?>
+
 <div class="znpb-footer-smart-area" >
    <section class="eluid3f393bfe  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid3f393bfe">
       <div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value">
@@ -53,12 +55,12 @@
                                  <div class="znColumnElement-innerContent">
                                     <div class="eluidee06842a  zn-menuEl" id="eluidee06842a">
                                        <ul id="eluidee06842a_1" class="zn-menuList zn-menuList-alg-left zn-menuList--layout-vertical">
-                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288"><a href="../index.html"><span>Rólunk</span></a></li>
-                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="../menu/index.html"><span>Étlap</span></a></li>
-                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="../reservation-and-content/index.html"><span>Asztalfoglalás</span></a></li>
-                                          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299">					   <a href="../gallery/index.html"><span>Galéria</span></a></li>
+                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288"><a href="<?php echo SITE_PATH?>"><span>Rólunk</span></a></li>
+                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="<?php echo SITE_PATH?>menu/"><span>Étlap</span></a></li>
+                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="<?php echo SITE_PATH?>reservation-and-content/"><span>Asztalfoglalás</span></a></li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299">					   <a href="<?php echo SITE_PATH?>gallery/"><span>Galéria</span></a></li>
                                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent curr..ent_page_parent current_page_ancestor menu-item-has-children menu-item-491">
-                                             <a href="../contact-us-with-google-map/index.html"><span>Elérhetőségeink</span></a>
+                                             <a href="<?php echo SITE_PATH?>contact-us-with-google-map/index.html"><span>Elérhetőségeink</span></a>
                                           </li>
                                        </ul>
                                     </div>
