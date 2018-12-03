@@ -1,9 +1,8 @@
 ﻿<!DOCTYPE html>
 <html lang="en-US">
-   
-   
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-   
+
+	<?php include("includeables/constants.php"); ?>   
    <head>
       <meta charset="UTF-8"/>
       <meta name="twitter:widgets:csp" content="on">
@@ -32,7 +31,7 @@
          padding: 0 !important;
          }
       </style>
-      <link rel='stylesheet' id='zn_all_g_fonts-css'  		href='includeables/css/fonts.css' type='text/css' media='all' />
+      <?php include("includeables/common_styles.php"); ?>
       <link rel='stylesheet' id='color-filters-css'  		href='wp-content/plugins/color-filters/assets/css/color-filters5010.css?ver=4.9.8' type='text/css' media='all' />
       <link rel='stylesheet' id='hg-mailchimp-styles-css'  	href='wp-content/plugins/hogash-mailchimp/assets/css/hg-mailchimp8a54.css?ver=1.0.0' type='text/css' media='all' />
       <link rel='stylesheet' id='rs-plugin-settings-css'  	href='wp-content/plugins/revslider/public/assets/css/settings8c43.css?ver=5.4.7.1' type='text/css' media='all' />
@@ -678,7 +677,7 @@
                                                <h2 class="eluidf31fc044  dn-heading" id="eluidf31fc044" itemprop="headline">Allegretto Étterem</h2>
                                                <p class="eluid8fb2eb31  dn-heading" id="eluid8fb2eb31" itemprop="headline">Action ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptateâ€ť.</p>
                                                <p class="eluid4f6c1618  dn-heading" id="eluid4f6c1618" itemprop="headline">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. </p>
-                                               <div class="zn-buttonWrapper zn-buttonWrapper-eluid41d26865 text-left"><a href="menu/index.html" id="eluid41d26865" class="eluid41d26865  zn-button btn btn--square btn-icon--before" data-target="smoothscroll" itemprop="url"><span class="zn-buttonText">Étlap</span></a></div>
+                                               <div class="zn-buttonWrapper zn-buttonWrapper-eluid41d26865 text-left"><a href="menu/" id="eluid41d26865" class="eluid41d26865  zn-button btn btn--square btn-icon--before" data-target="smoothscroll" itemprop="url"><span class="zn-buttonText">Étlap</span></a></div>
                                            </div>
                                        </div>
                                    </div>
@@ -718,7 +717,7 @@
                                                        <div class="eluid7b25184d  znColumnElement col-md-12 zn_edit_mode" id="eluid7b25184d">
                                                            <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid7b25184d znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left ">
                                                                <div class="znColumnElement-innerContent">
-                                                                   <div class="zn-buttonWrapper zn-buttonWrapper-eluid7042b024 text-left"><a href="menu/index.html" id="eluid7042b024" class="eluid7042b024  zn-button btn btn--square btn-icon--before" title="Click me" target="_self" itemprop="url"><span class="zn-buttonText">Étlap</span></a></div>
+                                                                   <div class="zn-buttonWrapper zn-buttonWrapper-eluid7042b024 text-left"><a href="menu/" id="eluid7042b024" class="eluid7042b024  zn-button btn btn--square btn-icon--before" title="Click me" target="_self" itemprop="url"><span class="zn-buttonText">Étlap</span></a></div>
                                                                </div>
                                                            </div>
                                                        </div>
@@ -814,7 +813,7 @@
                                                        <div class="eluid805c12fc  znColumnElement col-md-12 zn_edit_mode" id="eluid805c12fc">
                                                            <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid805c12fc znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left ">
                                                                <div class="znColumnElement-innerContent">
-                                                                   <div class="zn-buttonWrapper zn-buttonWrapper-eluidff3ee5ec text-left"><a href="menu/index.html" id="eluidff3ee5ec" class="eluidff3ee5ec  zn-button btn btn--square btn-icon--before" title="Click me" target="_self" itemprop="url"><span class="zn-buttonText">Étlap</span></a></div>
+                                                                   <div class="zn-buttonWrapper zn-buttonWrapper-eluidff3ee5ec text-left"><a href="menu/" id="eluidff3ee5ec" class="eluidff3ee5ec  zn-button btn btn--square btn-icon--before" title="Click me" target="_self" itemprop="url"><span class="zn-buttonText">Étlap</span></a></div>
                                                                </div>
                                                            </div>
                                                        </div>
@@ -842,7 +841,7 @@
                                                    Csirkemell füstölt scamorza sajttal kemencében sütve,fokhagymás tejszínes parajjal és jázmin rizzsel
                                                </p>
                                                <p class="eluidee66951f  dn-heading" id="eluidee66951f" itemprop="headline">3 390 Ft </p>
-                                               <div class="zn-buttonWrapper zn-buttonWrapper-eluid448832d9 text-center"><a href="menu/index.html" id="eluid448832d9" class="eluid448832d9  zn-button btn btn--square btn-icon--before" title="Click me" target="_self" itemprop="url"><span class="zn-buttonText">Olvass tovább</span></a></div>
+                                               <div class="zn-buttonWrapper zn-buttonWrapper-eluid448832d9 text-center"><a href="menu/" id="eluid448832d9" class="eluid448832d9  zn-button btn btn--square btn-icon--before" title="Click me" target="_self" itemprop="url"><span class="zn-buttonText">Olvass tovább</span></a></div>
                                            </div>
                                        </div>
                                    </div>
