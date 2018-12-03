@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en-US">
+   <?php include("../includeables/constants.php"); ?>      
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
    <head>
       <meta charset="UTF-8"/>
@@ -29,7 +30,7 @@
          padding: 0 !important;
          }
       </style>
-      <link rel='stylesheet' id='zn_all_g_fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A0%2C1%2C2%2C3%2C4%7CGreat+Vibes%3A0%7COpen+Sans%3A0%7CPlayfair+Display%3A0%7CMontserrat&amp;ver=4.9.8' type='text/css' media='all' />
+      <?php include("../../includeables/common_styles.php"); ?>
       <link rel='stylesheet' id='color-filters-css'  href='../../wp-content/plugins/color-filters/assets/css/color-filters5010.css?ver=4.9.8' type='text/css' media='all' />
       <link rel='stylesheet' id='hg-mailchimp-styles-css'  href='../../wp-content/plugins/hogash-mailchimp/assets/css/hg-mailchimp8a54.css?ver=1.0.0' type='text/css' media='all' />
       <link rel='stylesheet' id='rs-plugin-settings-css'  href='../../wp-content/plugins/revslider/public/assets/css/settings8c43.css?ver=5.4.7.1' type='text/css' media='all' />
