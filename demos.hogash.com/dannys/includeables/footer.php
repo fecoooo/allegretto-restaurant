@@ -1,5 +1,3 @@
-<?php define("SITE_PATH", "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/"); ?>
-
 <div class="znpb-footer-smart-area" >
    <section class="eluid3f393bfe  zn-section zn-section--height-auto zn-section--contentValign-top" id="eluid3f393bfe">
       <div class="zn-sectionContainer zn-sectionContainer--default zn_dummy_value">
