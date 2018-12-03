@@ -73,7 +73,7 @@
             <div class="eluid83325b06  znColumnElement col-md-4 zn_edit_mode" id="eluid83325b06" >
                <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid83325b06 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
                   <div class="znColumnElement-innerContent">
-                     <div class="zn-buttonWrapper zn-buttonWrapper-eluid0e144a29 text-center"><a href="../reservation-and-content/index.html" id="eluid0e144a29" class="eluid0e144a29  zn-button btn btn-default btn--square btn-icon--before" title="Click me" target="_self"  itemprop="url" ><span class="zn-buttonText">ONLINE RENDELÉS</span></a></div>
+                     <div class="zn-buttonWrapper zn-buttonWrapper-eluid0e144a29 text-center"><a href="<?php echo SITE_PATH?>reservation-and-content/" id="eluid0e144a29" class="eluid0e144a29  zn-button btn btn-default btn--square btn-icon--before" title="Click me" target="_self"  itemprop="url" ><span class="zn-buttonText">ASZTALFOGLALÁS</span></a></div>
                      <h4 class="eluida6994bdf  dn-heading" id="eluida6994bdf" itemprop="headline" >Kövess minket</h4>
                      <div class="eluid387a5df7  zn-iconList-el" id="eluid387a5df7">
                         <ul class="zn-iconList zn-iconList-alg-center zn-iconList--layout-horizontal zn_dummy_value">
