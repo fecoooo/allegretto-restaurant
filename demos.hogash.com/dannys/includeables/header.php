@@ -1,4 +1,17 @@
-<?php define("SITE_PATH", "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/"); ?>
+<?php
+
+$whitelist = array(
+    '127.0.0.1',
+    '::1'
+);
+
+if(!in_array($_SERVER['REMOTE_ADDR'], $whitelist))
+	define("SITE_PATH", "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/"); 
+else 
+	define("SITE_PATH", "https://allegretto-restaurant.herokuapp.com/"); 
+
+?>
+
 
 <header id="site-header" class="dn-siteHeader  dn-siteHeader--style1 dn-stickyHeader dn-stickyHeader--off  dn-stickyHeader--resize dn-siteHeader--pos-absolute" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
     <div class="dn-siteHeader-wrapper">
