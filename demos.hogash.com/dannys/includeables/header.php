@@ -6,10 +6,9 @@ $whitelist = array(
 );
 
 if(!in_array($_SERVER['REMOTE_ADDR'], $whitelist))
-	define("SITE_PATH", "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/"); 
-else 
 	define("SITE_PATH", "https://allegretto-restaurant.herokuapp.com/"); 
-
+else 
+	define("SITE_PATH", "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/"); 
 ?>
 
 
