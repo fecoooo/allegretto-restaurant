@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en-US">
-   <?php include("../includeables/constants.php"); ?>      
+   <?php include("../../includeables/constants.php"); ?>     
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
    <head>
       <meta charset="UTF-8"/>
@@ -116,7 +116,7 @@
                </svg>
             </a>
          </div>
-		<?php include("../../includeables/header.php"); ?>
+         <?php include("../../includeables/header_products.php"); ?>
          <section class="dn-breadcrumbs dn-breadcrumbs--headerRelative dn-breadcrumbs--dark "  >
             <div class="container">
                <div class="row">

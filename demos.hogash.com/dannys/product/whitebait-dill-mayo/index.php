@@ -117,7 +117,7 @@
                </svg>
             </a>
          </div>
-		<?php include("../../includeables/header.php"); ?>
+         <?php include("../../includeables/header_products.php"); ?>
          <section class="dn-breadcrumbs dn-breadcrumbs--headerRelative dn-breadcrumbs--dark "  >
             <div class="container">
                <div class="row">
