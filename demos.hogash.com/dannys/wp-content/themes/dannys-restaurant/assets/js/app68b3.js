@@ -644,7 +644,7 @@
 			// Add loading class
 			elementContainer.addClass( 'zn-wcArchive-ajax--loading' );
 
-			$.post( "/danny/demos.hogash.com/dannys/wp-admin/admin-ajax.php", args ).success(function( data ){
+			$.post( "/allegretto-restaurant/demos.hogash.com/dannys/wp-admin/admin-ajax.php", args ).success(function( data ){
 
 				// Remove loading Class
 				elementContainer.removeClass( 'zn-wcArchive-ajax--loading' );
