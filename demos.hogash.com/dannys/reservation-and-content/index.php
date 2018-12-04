@@ -274,7 +274,7 @@
                                              </fieldset>
                                              <fieldset class="contact">
                                                 <legend >
-                                                   LÉPJÉL VELÜNK KAPCSOLATBA			
+                                                   LÉPJ VELÜNK KAPCSOLATBA			
                                                 </legend>
                                                 <div class="rtb-text name">
                                                    <label for="rtb-name">

@@ -147,7 +147,7 @@
                            <div class="eluidf3807b18  znColumnElement col-md-12 zn_edit_mode" id="eluidf3807b18" >
                               <div class="znColumnElement-innerWrapper znColumnElement-iW-eluidf3807b18 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-center " >
                                  <div class="znColumnElement-innerContent">
-                                    <h3 class="eluid87b55ec3  dn-heading" id="eluid87b55ec3" itemprop="headline" >lÉPJEN VELÜNK KAPCSOLATBA</h3>
+                                    <h3 class="eluid87b55ec3  dn-heading" id="eluid87b55ec3" itemprop="headline" >LÉPJ VELÜNK KAPCSOLATBA</h3>
                                     <div id="eluid48bbc175" class="eluid48bbc175  zn-contactFormElement">
                                        <form action="#" id="form_eluid48bbc175" method="post" class="zn-contactForm" data-redirect="">
                                           <div class="row zn-contactForm-row gutter-md">
