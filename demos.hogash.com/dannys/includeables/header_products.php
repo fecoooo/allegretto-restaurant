@@ -4,7 +4,7 @@
             <div class="container dn-siteHeader-container">
                 <div class="fxb-row dn-siteHeader-row dn-siteHeader-mainRow ">
                     <div class="dn-siteHeader-mainLeft fxb-col fxb fxb-start-x fxb-center-y fxb-basis-50 fxb-xs-basis-auto fxb-xl-forth">
-                        <div class="dn-logoImg-wrapper dn-logoSize--custom " id="dn-logo"><a href="<?php echo SITE_PATH; ?>" class="dn-logoImg-anch"><img class="dn-logoImg dn-logoMain" src="http://localhost/allegretto-restaurant/demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/logo.png" itemprop="logo" width="185" /></a></div>
+                        <div class="dn-logoImg-wrapper dn-logoSize--custom " id="dn-logo"><a href="<?php echo SITE_PATH; ?>" class="dn-logoImg-anch"><img class="dn-logoImg dn-logoMain" src="<?php echo SITE_PATH; ?>wp-content/uploads/sites/4/2017/05/logo.png" itemprop="logo" width="185" /></a></div>
                     </div>
                     <div class="dn-siteHeader-mainCenter fxb-col fxb fxb-center-x fxb-center-y fxb-basis-auto fxb-shrink-0">
                         <div class="sh-component dn-mainNav-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
