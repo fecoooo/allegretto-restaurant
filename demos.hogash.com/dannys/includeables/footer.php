@@ -58,7 +58,7 @@
                                           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="<?php echo SITE_PATH?>reservation-and-content/"><span>Asztalfoglalás</span></a></li>
                                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299">					   <a href="<?php echo SITE_PATH?>gallery/"><span>Galéria</span></a></li>
                                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent curr..ent_page_parent current_page_ancestor menu-item-has-children menu-item-491">
-                                             <a href="<?php echo SITE_PATH?>contact-us-with-google-map/index.html"><span>Elérhetőségeink</span></a>
+                                             <a href="<?php echo SITE_PATH?>contact-us-with-google-map/"><span>Elérhetőségeink</span></a>
                                           </li>
                                        </ul>
                                     </div>

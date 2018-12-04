@@ -3,7 +3,7 @@
       <meta name="numberOfItems" content="3" />
       <meta name="itemListOrder" content="Ascending" />
       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin">
-         <a href="../../menu/index.html" rel="home" itemprop="item"><span itemprop="name">Étlap</span></a>
+         <a href="../../menu/" rel="home" itemprop="item"><span itemprop="name">Étlap</span></a>
          <meta itemprop="position" content="1" />
       </li>
       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end">
