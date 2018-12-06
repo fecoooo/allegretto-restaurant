@@ -7,7 +7,7 @@
                   <div class="znColumnElement-innerContent">
                      <h5 class="eluid9908e25a  dn-heading" id="eluid9908e25a" itemprop="headline" >Iratkozz fel</h5>
                      <h2 class="eluid54d3aea8  dn-heading" id="eluid54d3aea8" itemprop="headline" >Hírlevelünkre</h2>
-                     <div class="eluid3348bffc  zn-image text-center" id="eluid3348bffc"><img width="52" height="52" src="http://localhost/allegretto-restaurant/demos.hogash.com/dannys/wp-content/uploads/sites/4/2017/05/offer_bubble.png" class="zn-imageImg u-img-inline-responsive " alt="" /></div>
+                     <div class="eluid3348bffc  zn-image text-center" id="eluid3348bffc"><img width="52" height="52" src="<?php echo SITE_PATH; ?>wp-content/uploads/sites/4/2017/05/offer_bubble.png" class="zn-imageImg u-img-inline-responsive " alt="" /></div>
                      <p class="eluidb3384990  dn-heading" id="eluidb3384990" itemprop="headline" >Iratkozz fel hírlevelünkre és 15% kedvezményt kapsz rendelésedből.</p>
                   </div>
                </div>
@@ -53,12 +53,12 @@
                                  <div class="znColumnElement-innerContent">
                                     <div class="eluidee06842a  zn-menuEl" id="eluidee06842a">
                                        <ul id="eluidee06842a_1" class="zn-menuList zn-menuList-alg-left zn-menuList--layout-vertical">
-                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288"><a href="../index.html"><span>Rólunk</span></a></li>
-                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="../menu/index.html"><span>Étlap</span></a></li>
-                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="../reservation-and-content/index.html"><span>Asztalfoglalás</span></a></li>
-                                          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299">					   <a href="../gallery/index.html"><span>Galéria</span></a></li>
+                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288"><a href="<?php echo SITE_PATH?>"><span>Rólunk</span></a></li>
+                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="<?php echo SITE_PATH?>menu/"><span>Étlap</span></a></li>
+                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-295"><a href="<?php echo SITE_PATH?>reservation-and-content/"><span>Asztalfoglalás</span></a></li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299">					   <a href="<?php echo SITE_PATH?>gallery/"><span>Galéria</span></a></li>
                                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent curr..ent_page_parent current_page_ancestor menu-item-has-children menu-item-491">
-                                             <a href="../contact-us-with-google-map/index.html"><span>Elérhetőségeink</span></a>
+                                             <a href="<?php echo SITE_PATH?>contact-us-with-google-map/"><span>Elérhetőségeink</span></a>
                                           </li>
                                        </ul>
                                     </div>
@@ -73,7 +73,7 @@
             <div class="eluid83325b06  znColumnElement col-md-4 zn_edit_mode" id="eluid83325b06" >
                <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid83325b06 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
                   <div class="znColumnElement-innerContent">
-                     <div class="zn-buttonWrapper zn-buttonWrapper-eluid0e144a29 text-center"><a href="../reservation-and-content/index.html" id="eluid0e144a29" class="eluid0e144a29  zn-button btn btn-default btn--square btn-icon--before" title="Click me" target="_self"  itemprop="url" ><span class="zn-buttonText">ONLINE RENDELÉS</span></a></div>
+                     <div class="zn-buttonWrapper zn-buttonWrapper-eluid0e144a29 text-center"><a href="<?php echo SITE_PATH?>reservation-and-content/" id="eluid0e144a29" class="eluid0e144a29  zn-button btn btn-default btn--square btn-icon--before" title="Click me" target="_self"  itemprop="url" ><span class="zn-buttonText">ASZTALFOGLALÁS</span></a></div>
                      <h4 class="eluida6994bdf  dn-heading" id="eluida6994bdf" itemprop="headline" >Kövess minket</h4>
                      <div class="eluid387a5df7  zn-iconList-el" id="eluid387a5df7">
                         <ul class="zn-iconList zn-iconList-alg-center zn-iconList--layout-horizontal zn_dummy_value">

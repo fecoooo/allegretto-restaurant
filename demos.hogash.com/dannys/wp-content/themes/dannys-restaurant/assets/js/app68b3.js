@@ -644,7 +644,13 @@
 			// Add loading class
 			elementContainer.addClass( 'zn-wcArchive-ajax--loading' );
 
-			$.post( "/danny/demos.hogash.com/dannys/wp-admin/admin-ajax.php", args ).success(function( data ){
+			var SITE_PATH = "https://allegretto-restaurant.herokuapp.com/";
+
+			if (location.hostname === "localhost" || location.hostname === "127.0.0.1")
+				 SITE_PATH = "http://localhost/allegretto-restaurant/demos.hogash.com/dannys/";
+			
+
+			$.post( SITE_PATH + "wp-admin/admin-ajax.php", args ).success(function( data ){
 
 				// Remove loading Class
 				elementContainer.removeClass( 'zn-wcArchive-ajax--loading' );

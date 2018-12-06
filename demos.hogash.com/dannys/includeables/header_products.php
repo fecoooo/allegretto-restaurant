@@ -1,4 +1,4 @@
-<header id="site-header" class="dn-siteHeader  dn-siteHeader--style1 dn-stickyHeader dn-stickyHeader--off  dn-stickyHeader--resize dn-siteHeader--pos-absolute" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+<header id="site-header" class="dn-siteHeader  dn-siteHeader--style1 dn-stickyHeader dn-stickyHeader--off  dn-stickyHeader--resize dn-siteHeader--pos-relative" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
     <div class="dn-siteHeader-wrapper">
         <div class="dn-siteHeader-main">
             <div class="container dn-siteHeader-container">
