@@ -1,2 +1,2 @@
 <link rel='stylesheet' id='zn_all_g_fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A0%2C1%2C2%2C3%2C4%7CGreat+Vibes%3A0%7COpen+Sans%3A0%7CPlayfair+Display%3A0%7CMontserrat&amp;ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='zn_all_g_fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A0%2C1%2C2%2C3%2C4%7CGreat+Vibes%3A0%7COpen+Sans%3A0%7CPlayfair+Display%3A0%7CMontserrat&amp;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='zn_all_g_fonts-css'  href="<?php echo SITE_PATH;?>includeables/css/fonts.css" type='text/css' media='all' />
