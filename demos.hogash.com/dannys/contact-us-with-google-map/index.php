@@ -6,7 +6,7 @@
       <meta charset="UTF-8"/>
       <meta name="twitter:widgets:csp" content="on">
       <link rel="profile" href="http://gmpg.org/xfn/11"/>
-      <title>Allegretto - Elérhetőségeink</title>
+      <title>Allegretto - Elérhetőség</title>
       <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -132,7 +132,7 @@
                               <div class="znColumnElement-innerWrapper znColumnElement-iW-eluid11c0b525 znColumnElement-innerWrapper--valign-top znColumnElement-innerWrapper--halign-left " >
                                  <div class="znColumnElement-innerContent">
                                     <h3 class="eluid522f5b2a  dn-heading" id="eluid522f5b2a" itemprop="headline" >Allegretto</h3>
-                                    <h1 class="eluiddc8e34f4  dn-heading" id="eluiddc8e34f4" itemprop="headline" >Elérhetőségeink</h1>
+                                    <h1 class="eluiddc8e34f4  dn-heading" id="eluiddc8e34f4" itemprop="headline" >Elérhetőség</h1>
                                     <p class="eluid5358cdb0  dn-heading" id="eluid5358cdb0" itemprop="headline" >Telefonszám +36 1 388 6902 Nyitvatartás
                                     <div class="eluid21dece02  dn-heading" id="eluid21dece02" itemprop="headline" >Minden nap 12.00-22.30 </div>
                                  </div>
