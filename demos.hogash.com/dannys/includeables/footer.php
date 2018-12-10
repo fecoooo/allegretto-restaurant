@@ -19,7 +19,7 @@
                         <div class="zn-mcNl-result js-mcForm-result"></div>
                         <form method="post" class="js-mcForm zn-mcNl-form clearfix" data-url="https://demos.hogash.com/dannys/" name="newsletter_form">
                            <input type="email" name="mc_email" class="zn-mcNl-input js-mcForm-email form-control"
-                              value="" placeholder="E-MAIL CÍMED" required="required" />
+                              value="" placeholder="E-MAIL CÍM" required="required" />
                            <button type="submit" name="submit" class="zn-mcNl-submit zn-mcNl-submit--text">
                            FELIRATKOZÁS						</button>
                            <input type="hidden" name="mailchimp_list" class="nl-lid" value="ec23162409" />
