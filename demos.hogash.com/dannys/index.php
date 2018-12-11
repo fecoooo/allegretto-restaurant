@@ -5,6 +5,7 @@
 	<?php include("includeables/constants.php"); ?>   
    <head>
       <meta charset="UTF-8"/>
+	  <meta name="format-detection" content="telephone=no">
       <meta name="twitter:widgets:csp" content="on">
       <link rel="profile" href="http://gmpg.org/xfn/11"/>
       <title>Allegretto - Rólunk</title>
