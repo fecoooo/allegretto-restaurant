@@ -207,7 +207,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >TEJSZÍNES TURBOLYA LEVES FAGYASZTOTT BORSÓVAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >TEJSZÍNES TURBOLYA LEVES FAGYASZTOTT BORSÓVAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1000 Ft </div>
                                                 </div>
@@ -222,7 +222,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >PADLIZSÁNKRÉM <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >PADLIZSÁNKRÉM<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1450 Ft</div>
                                                 </div>
@@ -235,7 +235,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >FRISS SUSHI SALÁTA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >FRISS SUSHI SALÁTA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1100 Ft</div>
                                                 </div>
@@ -248,7 +248,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KEMENCÉS CIPÓBA TÖLTÖTT MARHAHÚS TORMÁVAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KEMENCÉS CIPÓBA TÖLTÖTT MARHAHÚS TORMÁVAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1100 Ft</div>
                                                 </div>
@@ -261,7 +261,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSIRKESZÁRNY ÉDES-SAVANYÚ MÁRTÁSSAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSIRKESZÁRNY ÉDES-SAVANYÚ MÁRTÁSSAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1200 Ft</div>
                                                 </div>
@@ -285,7 +285,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >RÁK SÜTEMÉNY <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >RÁK SÜTEMÉNY<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1850 Ft</div>
                                                 </div>
@@ -300,7 +300,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSÍKHAL KAPROS MAJONÉZZEL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSÍKHAL KAPROS MAJONÉZZEL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1200 Ft</div>
                                                 </div>
@@ -379,7 +379,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >ECETES FOKHAGYMÁS CSIRKELMELL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >ECETES FOKHAGYMÁS CSIRKELMELL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1500 Ft</div>
                                                 </div>
@@ -392,7 +392,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SAJTBURGER PULYKAFASÍRTTAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SAJTBURGER PULYKAFASÍRTTAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1200 Ft</div>
                                                 </div>
@@ -404,7 +404,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >TÖLTÖTT PAPRIKA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >TÖLTÖTT PAPRIKA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">2100 Ft</div>
                                                 </div>
@@ -417,7 +417,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >LASAGNA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >LASAGNA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1700 Ft</div>
                                                 </div>
@@ -454,7 +454,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SPAGHETTI ALLA CARBONARA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SPAGHETTI ALLA CARBONARA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1800 Ft</div>
                                                 </div>
@@ -481,7 +481,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SERTÉS BÉLSZÍN SZELETEK ALMÁS CIDER SZÓSZBAN <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SERTÉS BÉLSZÍN SZELETEK ALMÁS CIDER SZÓSZBAN<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1590 Ft</div>
                                                 </div>
@@ -494,7 +494,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSIRKE ENCHILADA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSIRKE ENCHILADA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1090 Ft</div>
                                                 </div>
@@ -579,7 +579,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SOMLÓI HABOS GALUSKA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SOMLÓI HABOS GALUSKA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">790 Ft</div>
                                                 </div>
@@ -594,7 +594,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SACHER MINI-TORTA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >SACHER MINI-TORTA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">600 Ft</div>
                                                 </div>
@@ -607,7 +607,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MÉZESKALÁCSOS SAJTTORTA SÁRGABARACKKAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MÉZESKALÁCSOS SAJTTORTA SÁRGABARACKKAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">640 Ft</div>
                                                 </div>
@@ -657,7 +657,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KÓKUSZOS CITRUSPARFÉ MELEG ERDEIGYÜMÖLCS RAGUVAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KÓKUSZOS CITRUSPARFÉ MELEG ERDEIGYÜMÖLCS RAGUVAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1090 Ft</div>
                                                 </div>
@@ -672,7 +672,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSOKOLÁDÉTORTA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >CSOKOLÁDÉTORTA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">740 Ft</div>
                                                 </div>
@@ -685,7 +685,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MÁKOS GUBA VANÍLIÁS MASCARPONÉVAL ÉS SZILVÁVAL <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MÁKOS GUBA VANÍLIÁS MASCARPONÉVAL ÉS SZILVÁVAL<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1140 Ft</div>
                                                 </div>
@@ -698,7 +698,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KRÉMES CSOKIS VAJKARAMELLA <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KRÉMES CSOKIS VAJKARAMELLA<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1240 Ft</div>
                                                 </div>
@@ -711,7 +711,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >BROWNIE <small> (250 G)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >BROWNIE<small>(250G)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">690 Ft</div>
                                                 </div>
@@ -751,7 +751,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MANHATTAN <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MANHATTAN<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1340 Ft</div>
                                                 </div>
@@ -764,7 +764,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KARAMELLÁS FRAPPUCCINO <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >KARAMELLÁS FRAPPUCCINO<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1490 Ft</div>
                                                 </div>
@@ -777,7 +777,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >LIMONÁDÉ <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >LIMONÁDÉ<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1640 Ft</div>
                                                 </div>
@@ -803,7 +803,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MARGARITA <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >MARGARITA<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1840 Ft</div>
                                                 </div>
@@ -841,7 +841,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >FORRÓ ALMA CIDER <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >FORRÓ ALMA CIDER<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1090 Ft</div>
                                                 </div>
@@ -854,7 +854,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >BIKINI MARTINI <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >BIKINI MARTINI<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1190 Ft</div>
                                                 </div>
@@ -867,7 +867,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											 <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >GYÖNGYÖZŐ BOR GRÉPFRÚTTAL <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >GYÖNGYÖZŐ BOR GRÉPFRÚTTAL<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1740 Ft</div>
                                                 </div>
@@ -880,7 +880,7 @@
                                              <a href="../product/white-chocolate-raspberry-cheesecake/">
 											  <div class="zn-priceList-itemRight">
                                                 <div class="zn-priceList-itemMain">
-                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >BANÁNOS SMOOTHIE <small> (250 ml)</small></h4>
+                                                   <h4 class="zn-priceList-itemTitle" itemprop="headline" >BANÁNOS SMOOTHIE<small>(250ml)</small></h4>
                                                    <div class="zn-priceList-dottedSeparator"></div>
                                                    <div class="zn-priceList-itemPrice">1200 Ft</div>
                                                 </div>
