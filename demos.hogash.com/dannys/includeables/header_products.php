@@ -1,3 +1,10 @@
+<style> 
+	@media (max-width: 1199px) { 
+		.bigger-font{
+			font-size: 13px;
+		}
+	}
+</style>
 <header id="site-header" class="dn-siteHeader  dn-siteHeader--style1 dn-stickyHeader dn-stickyHeader--off  dn-stickyHeader--resize dn-siteHeader--pos-relative" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
     <div class="dn-siteHeader-wrapper">
         <div class="dn-siteHeader-main">
