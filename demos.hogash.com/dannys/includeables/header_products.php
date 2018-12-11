@@ -1,7 +1,7 @@
 <style> 
 	@media (max-width: 1199px) { 
 		.bigger-font{
-			font-size: 13px;
+			font-size: 14px;
 		}
 	}
 </style>
