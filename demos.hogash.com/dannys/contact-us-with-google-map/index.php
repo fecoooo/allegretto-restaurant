@@ -133,8 +133,8 @@
                                  <div class="znColumnElement-innerContent">
                                     <h3 class="eluid522f5b2a  dn-heading" id="eluid522f5b2a" itemprop="headline" >Allegretto</h3>
                                     <h1 class="eluiddc8e34f4  dn-heading" id="eluiddc8e34f4" itemprop="headline" >Elérhetőség</h1>
-                                    <p class="eluid5358cdb0  dn-heading" id="eluid5358cdb0" itemprop="headline" >Telefonszám +36 1 388 6902 Nyitvatartás
-                                    <div class="eluid21dece02  dn-heading" id="eluid21dece02" itemprop="headline" >Minden nap 12.00-22.30 </div>
+                                    <p class="eluid5358cdb0  dn-heading" id="eluid5358cdb0" itemprop="headline" >Telefonszám +36 1 388 6902 
+                                    <div class="eluid21dece02  dn-heading" id="eluid21dece02" itemprop="headline" > Minden nap 12.00-22.30 </div>
                                  </div>
                               </div>
                            </div>
@@ -998,14 +998,5 @@
       </svg>
    </body>
    
-		<script>
-			setTimeout(function(){ 
-				var imgs = document.getElementsByTagName("img");
-				for(var i = 0; i < imgs.length; ++i)
-                {
-                    if (imgs[i].src.includes("wp-content/uploads/sites/4/2017/05/map_marker.png"))
-                        imgs[i].click();
-				}
-			}, 1000);
-		</script>
+		
 </html>

@@ -1907,16 +1907,7 @@
                </symbol>
            </defs>
        </svg>
-       <script>
-           setTimeout(function () {
-               var imgs = document.getElementsByTagName("img");
-               for (var i = 0; i < imgs.length; ++i) {
-                   if (imgs[i].src.includes("wp-content/uploads/sites/4/2017/05/map_marker.png"))
-                       imgs[i].click();
-               }
-           }, 1000);
-
-       </script>
+       
    </body>
    
   
