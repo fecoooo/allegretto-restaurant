@@ -132,7 +132,7 @@
                                  <div class="znColumnElement-innerContent">
                                     <h3 class="eluid2289263b  dn-heading" id="eluid2289263b" itemprop="headline" >Foglalj Online</h3>
                                     <h1 style="margin-bottom:40px" class="eluidcd94d1ad  dn-heading" id="eluidcd94d1ad" itemprop="headline" >Asztalfoglalás</h1>
-                                    <p class="eluid194cba57  dn-heading" id="eluid194cba57" itemprop="headline" >Hívjon minket <span style="color: inherit;text-decoration: none;">+36 1 3886902</span></p>
+                                    <p class="eluid194cba57  dn-heading" id="eluid194cba57" itemprop="headline" >Hívjon minket <span style="text-color:white;color: inherit;text-decoration: none;">+36 1 3886902</span></p>
                                     <p class="eluid176927f0  dn-heading" id="eluid176927f0" itemprop="headline" >Minden nap 12.00-22.30</p>
                                  </div>
                               </div>
